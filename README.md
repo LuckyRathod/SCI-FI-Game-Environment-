@@ -12,14 +12,14 @@ I really hope you like and enjoy it. Don't hesitate to rate the pack if you like
 
 ## Screenshots
 
-<img src="\screenshots\image1.jpg" height="300" width="630"/> 
-  <img src="\screenshots\image2.jpg"height="300" width="630" align="center" />
-   <img src="\screenshots\image3.jpg"height="300" width="630" align="center" />
-    <img src="\screenshots\image4.jpg"height="300" width="630" align="center" />
-     <img src="\screenshots\image5.jpg"height="300" width="630" align="center" />
-      <img src="\screenshots\image6.jpg"height="300" width="630" align="center" />
-       <img src="\screenshots\image7.jpg"height="300" width="630" align="center" />
-         <img src="\screenshots\image8.jpg"height="300" width="630 " align="center" />
+<img src="/screenshots/image1.jpg" height="300" width="630"/> 
+  <img src="/screenshots/image2.jpg"height="300" width="630" align="center" />
+   <img src="/screenshots/image3.jpg"height="300" width="630" align="center" />
+    <img src="/screenshots/image4.jpg"height="300" width="630" align="center" />
+     <img src="/screenshots/image5.jpg"height="300" width="630" align="center" />
+      <img src="/screenshots/image6.jpg"height="300" width="630" align="center" />
+       <img src="/screenshots/image7.jpg"height="300" width="630" align="center" />
+         <img src="/screenshots/image8.jpg"height="300" width="630 " align="center" />
         
 
 ## Getting Started
